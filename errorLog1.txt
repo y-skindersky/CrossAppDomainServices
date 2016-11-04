@@ -1,3 +1,15 @@
+mono --version
+Mono JIT compiler version 4.2.1 (Debian 4.2.1.102+dfsg2-7ubuntu4)
+Copyright (C) 2002-2014 Novell, Inc, Xamarin Inc and Contributors. www.mono-project.com
+	TLS:           __thread
+	SIGSEGV:       altstack
+	Notifications: epoll
+	Architecture:  amd64
+	Disabled:      none
+	Misc:          softdebug 
+	LLVM:          supported, not enabled.
+	GC:            sgen
+
 Start 'Plugin0'...
 Start 'Plugin1'...
 Start 'Plugin2'...
